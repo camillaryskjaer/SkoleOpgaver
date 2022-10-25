@@ -1,0 +1,15 @@
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\bin\Debug\net6.0\Øvelse1.exe
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\bin\Debug\net6.0\Øvelse1.deps.json
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\bin\Debug\net6.0\Øvelse1.runtimeconfig.json
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\bin\Debug\net6.0\Øvelse1.dll
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\bin\Debug\net6.0\Øvelse1.pdb
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.csproj.AssemblyReference.cache
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.AssemblyInfoInputs.cache
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.AssemblyInfo.cs
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.csproj.CoreCompileInputs.cache
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.dll
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\refint\Øvelse1.dll
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.pdb
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\Øvelse1.genruntimeconfig.cache
+H:\GitHub\SkoleOpgaver\C#\Øvelser\Øvelse1\Øvelse1\obj\Debug\net6.0\ref\Øvelse1.dll
