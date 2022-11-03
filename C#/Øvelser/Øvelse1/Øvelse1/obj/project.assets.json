@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\GitHub\\SkoleOpgaver\\C#\\Øvelser\\Øvelse1\\Øvelse1\\Øvelse1.csproj",
-      "projectName": "Øvelse1",
-      "projectPath": "H:\\GitHub\\SkoleOpgaver\\C#\\Øvelser\\Øvelse1\\Øvelse1\\Øvelse1.csproj",
+      "projectUniqueName": "H:\\GitHub\\SkoleOpgaver\\C#\\Øvelser\\Øvelse1\\Øvelse1\\Øvelser.csproj",
+      "projectName": "Øvelser",
+      "projectPath": "H:\\GitHub\\SkoleOpgaver\\C#\\Øvelser\\Øvelse1\\Øvelse1\\Øvelser.csproj",
       "packagesPath": "C:\\Users\\simo861q\\.nuget\\packages\\",
       "outputPath": "H:\\GitHub\\SkoleOpgaver\\C#\\Øvelser\\Øvelse1\\Øvelse1\\obj\\",
       "projectStyle": "PackageReference",
