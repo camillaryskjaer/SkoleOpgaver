@@ -1,9 +1,10 @@
 ﻿using System;
-namespace Øvelse5
+namespace Øvelser.Øvelser
 
 {
-    class Øvelse5 {
-        static void test2(string[] args)
+    class Øvelse5
+    {
+        static void Test5(string[] args)
         {
             Console.WriteLine("Hvad er tal 1?");
             int num1 = int.Parse(Console.ReadLine()); //takes the console input and converts it to and int

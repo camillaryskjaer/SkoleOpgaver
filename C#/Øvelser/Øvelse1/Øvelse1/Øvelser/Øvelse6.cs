@@ -1,10 +1,10 @@
 ﻿using System;
-namespace Øvelse5
+namespace Øvelser.Øvelser
 
 {
     class Øvelse6
     {
-        static void Main(string[] args)
+        static void Test6(string[] args)
         {
             List<int> numbers = new List<int> { 1, 4, 6, 8 };
 

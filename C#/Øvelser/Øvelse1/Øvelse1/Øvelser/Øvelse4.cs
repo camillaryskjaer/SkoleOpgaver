@@ -1,28 +1,33 @@
 ﻿using System;
-namespace Øvelse4
+namespace Øvelser.Øvelser
 
 {
-    class Factorial{
-        public int display(int n)
+    class Factorial
+    {
+        public double display(double n)
         {
-            int res = 1;
-            while (n != 1)
+            double res = 1;
+            while (n > 1)
             {
                 res = res * n;
-                n = n - 1;
+                Console.WriteLine("Res {0}", res);
+                --n;
+                Console.WriteLine("n ={0}", n);
             }
             return res;
         }
-        static void test1(string[] args)
+        static void Test4(string[] args)
         {
             int num = 0;
-            while (num == 0){
+            double ret;
+            while (num == 0)
+            {
                 Console.WriteLine("Hvad er dit faktuelt tal?");
                 string str = Console.ReadLine();
-                int value = Int32.Parse(str);
-                if (value < 25)
+                double value = Convert.ToDouble(str);
+
+                if (value < 26)
                 {
-                    int ret;
                     Factorial fact = new Factorial();
                     ret = fact.display(value);
                     Console.WriteLine("Slut værdien er: {0}", ret);
@@ -32,7 +37,6 @@ namespace Øvelse4
                     Console.WriteLine("Dit faktuelle tal må ikke være mere end 25!");
                 }
             }
-
         }
     }
 }
