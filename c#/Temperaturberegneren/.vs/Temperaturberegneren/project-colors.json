@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98822059-739c-4b0d-a99a-9819e804ad06": {
+      "ProjectGuid": "98822059-739c-4b0d-a99a-9819e804ad06",
+      "DisplayName": "Temperaturberegneren",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

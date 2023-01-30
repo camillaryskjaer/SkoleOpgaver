@@ -1,0 +1,1 @@
+﻿double celcius = double.Parse(Console.ReadLine());double Fahrenheit = (celcius * 1.8) + 32;double Reamur = celcius * 0.8;Console.WriteLine(Fahrenheit);Console.WriteLine(Reamur);

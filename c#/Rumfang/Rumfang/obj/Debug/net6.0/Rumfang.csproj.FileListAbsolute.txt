@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\Rumfang.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\Rumfang.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\Rumfang.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\Rumfang.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\ref\Rumfang.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\bin\Debug\net6.0\Rumfang.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\ref\Rumfang.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Rumfang\Rumfang\obj\Debug\net6.0\Rumfang.genruntimeconfig.cache
