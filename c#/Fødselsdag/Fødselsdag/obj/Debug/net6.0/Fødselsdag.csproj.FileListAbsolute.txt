@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\Fødselsdag.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\Fødselsdag.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\Fødselsdag.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\Fødselsdag.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\ref\Fødselsdag.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\bin\Debug\net6.0\Fødselsdag.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\ref\Fødselsdag.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Fødselsdag\Fødselsdag\obj\Debug\net6.0\Fødselsdag.genruntimeconfig.cache
