@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\Terningen.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\Terningen.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\Terningen.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\Terningen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\ref\Terningen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\bin\Debug\net6.0\Terningen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\ref\Terningen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Kontrolstruktur\Terningen\Terningen\obj\Debug\net6.0\Terningen.genruntimeconfig.cache

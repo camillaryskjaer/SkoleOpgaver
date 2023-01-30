@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bec1dd45-4a58-4bbb-a3f2-53ea33050c9d": {
+      "ProjectGuid": "bec1dd45-4a58-4bbb-a3f2-53ea33050c9d",
+      "DisplayName": "Fødselsdag",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
