@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\Nim.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\Nim.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\Nim.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\Nim.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\ref\Nim.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\bin\Debug\net6.0\Nim.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\ref\Nim.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Nim\Nim\obj\Debug\net6.0\Nim.genruntimeconfig.cache
