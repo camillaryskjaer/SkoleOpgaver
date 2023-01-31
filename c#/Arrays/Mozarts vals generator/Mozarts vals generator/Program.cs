@@ -21,7 +21,7 @@ int[,] trios = {    { 72, 6, 59, 25, 81, 41, 89, 13, 36, 5, 46, 79, 30, 95, 19, 
 List<string> files = new List<string>();
 
 
-for (int i = 0; i < 16; i++)
+for (int i = 0; i < menuets.GetLength(1); i++)
 {
     Random random = new Random();
     int randomNum = random.Next(2, 13);
