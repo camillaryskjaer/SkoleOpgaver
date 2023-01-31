@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\Juletræ.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\Juletræ.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\Juletræ.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\Juletræ.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\ref\Juletræ.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\bin\Debug\net6.0\Juletræ.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\ref\Juletræ.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Juletræ\Juletræ\obj\Debug\net6.0\Juletræ.genruntimeconfig.cache
