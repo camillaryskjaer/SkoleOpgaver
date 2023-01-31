@@ -1,0 +1,22 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Mozarts vals generator.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Mozarts vals generator.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Mozarts vals generator.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Mozarts vals generator.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\ref\Mozarts vals generator.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Mozarts vals generator.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.csproj.CopyComplete
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\ref\Mozarts vals generator.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\obj\Debug\net6.0\Mozarts vals generator.genruntimeconfig.cache

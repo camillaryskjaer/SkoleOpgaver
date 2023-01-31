@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f1e297f-4d46-460c-9251-6f43ba366710": {
+      "ProjectGuid": "0f1e297f-4d46-460c-9251-6f43ba366710",
+      "DisplayName": "Vinos Blancos",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
