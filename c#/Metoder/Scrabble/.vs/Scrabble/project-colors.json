@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e37b1a9-885a-4b17-82c9-fdba8a4c2f4b": {
+      "ProjectGuid": "7e37b1a9-885a-4b17-82c9-fdba8a4c2f4b",
+      "DisplayName": "Scrabble",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
