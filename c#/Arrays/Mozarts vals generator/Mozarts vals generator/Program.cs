@@ -34,15 +34,15 @@ for (int i = 0; i < menuets.GetLength(1); i++)
 
 Console.WriteLine(" ");
 
-for (int i = 0; i < 16; i++)
+for (int i = 0; i < trios.GetLength(1); i++)
 {
     Random random = new Random();
-    int randomNum = random.Next(2, 7);
+    int randomNum = random.Next(1, 7);
     Console.WriteLine(randomNum + " : " + i);
 
-    Console.WriteLine("Trios: " + trios[randomNum - 2, i]);
+    Console.WriteLine("Trios: " + trios[randomNum - 1, i]);
 
-    files.Add(@"C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\Wave\M" + menuets[randomNum - 2, i] + ".wav");
+    files.Add(@"C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Arrays\Mozarts vals generator\Mozarts vals generator\Wave\M" + trios[randomNum - 1, i] + ".wav");
 }
 
 
