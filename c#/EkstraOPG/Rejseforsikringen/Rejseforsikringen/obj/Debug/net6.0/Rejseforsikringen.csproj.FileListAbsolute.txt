@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\Rejseforsikringen.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\Rejseforsikringen.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\Rejseforsikringen.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\Rejseforsikringen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\ref\Rejseforsikringen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\bin\Debug\net6.0\Rejseforsikringen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\ref\Rejseforsikringen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Rejseforsikringen\Rejseforsikringen\obj\Debug\net6.0\Rejseforsikringen.genruntimeconfig.cache

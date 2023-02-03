@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ece8502-fce7-4fd4-9eee-d974336cbe95": {
+      "ProjectGuid": "9ece8502-fce7-4fd4-9eee-d974336cbe95",
+      "DisplayName": "Kreditkort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

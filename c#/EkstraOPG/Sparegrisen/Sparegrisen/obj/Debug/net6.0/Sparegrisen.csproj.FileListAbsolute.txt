@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\Sparegrisen.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\Sparegrisen.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\Sparegrisen.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\Sparegrisen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\ref\Sparegrisen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\bin\Debug\net6.0\Sparegrisen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\ref\Sparegrisen.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Sparegrisen\Sparegrisen\obj\Debug\net6.0\Sparegrisen.genruntimeconfig.cache

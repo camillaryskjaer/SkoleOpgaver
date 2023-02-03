@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\Kreditkort.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\Kreditkort.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\Kreditkort.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\Kreditkort.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\ref\Kreditkort.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\bin\Debug\net6.0\Kreditkort.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\ref\Kreditkort.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\EkstraOPG\Kreditkort\Kreditkort\obj\Debug\net6.0\Kreditkort.genruntimeconfig.cache
