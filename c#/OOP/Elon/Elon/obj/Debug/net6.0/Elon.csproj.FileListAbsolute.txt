@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\Elon.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\Elon.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\Elon.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\Elon.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\ref\Elon.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\bin\Debug\net6.0\Elon.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\ref\Elon.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Elon\Elon\obj\Debug\net6.0\Elon.genruntimeconfig.cache
