@@ -2,7 +2,7 @@
 {
     public class Car //Defines my class "Car"
     {
-        private int _battery = 10;
+        private int _battery = 100;
         private int _meter = 0;
         private string _color = "red";
 
@@ -14,7 +14,7 @@
 
         public void Charge() //Chage method
         {
-            _battery = 10;
+            _battery = 100;
             _meter = 0;
         }
 
@@ -40,6 +40,7 @@
     static void Main(string[] args) //Main program
     {
         Car car1 = new Car();
+        Car car2 = new Car();
 
         int choise = 2; //Default choise is 2 = charge car
 
