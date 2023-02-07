@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\Black Jack.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\Black Jack.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\Black Jack.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\Black Jack.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\ref\Black Jack.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\bin\Debug\net6.0\Black Jack.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\ref\Black Jack.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Black Jack\Black Jack\obj\Debug\net6.0\Black Jack.genruntimeconfig.cache
