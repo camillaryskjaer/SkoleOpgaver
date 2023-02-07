@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\Robotterne kommer.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\Robotterne kommer.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\Robotterne kommer.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\Robotterne kommer.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\ref\Robotterne kommer.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\bin\Debug\net6.0\Robotterne kommer.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\ref\Robotterne kommer.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Robotterne kommer\Robotterne kommer\obj\Debug\net6.0\Robotterne kommer.genruntimeconfig.cache
