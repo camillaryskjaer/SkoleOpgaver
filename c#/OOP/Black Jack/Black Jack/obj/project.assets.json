@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+    "C:\\Users\\simon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\OneDrive\\Dokumenter\\Skole - EUX\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
       "projectName": "Black Jack",
-      "projectPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
-      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\obj\\",
+      "projectPath": "C:\\Users\\simon\\OneDrive\\Dokumenter\\Skole - EUX\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
+      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\simon\\OneDrive\\Dokumenter\\Skole - EUX\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

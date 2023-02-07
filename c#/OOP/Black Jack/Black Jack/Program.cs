@@ -11,7 +11,7 @@
 
             byte deckCounter = 0;
 
-            //Creating deck
+            //Creating deck\\
 
             for (int i = 0; i < suit.Length; i++)
             {
@@ -22,82 +22,102 @@
                 }
             }
 
-            //Shuffle
+            //Shuffle deck\\
             deck = Shuffle(deck);
 
-            //Write deck shuffled
-            //foreach (Card item in deck)
-            //{
-            //    Console.WriteLine(item.Suit + ":" + item.Value);
-            //}
-            //Console.ReadKey();
+            //Game values\\
+            byte count = 0;
 
-            while (true)
+            byte playercount = 0;
+
+            byte dealercount = 0;
+
+            byte choise = 2;
+
+            bool playersturn = true;
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("|||BLACK JACK|||\n");
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            
+            //Gives the player 2 cards
+            for (int i = 0; i < 2; i++)
             {
-                byte count = 0;
+                Console.WriteLine("Dine kort er: " + deck[count].ToString());
+                playercount += deck[count].Value; //Adds card value to playercount
+                count++;
+            }
 
-                byte playercount = 0;
+            Console.WriteLine(playercount + "\n");
 
-                byte computercount = 0;
+            Console.ForegroundColor = ConsoleColor.Blue;
 
-                byte choise = 2;
+            //Gives the dealer 2 cards
+            for (int i = 0; i < 2; i++)
+            {
+                Console.WriteLine("Dealers kort er: " + deck[count].ToString());
+                dealercount += deck[count].Value; //Adds card value to dealercount
+                count++;
+            }
 
-                for (int i = 0; i < 2; i++)
+            Console.WriteLine(dealercount + "\n");
+
+            Checker(playercount, dealercount); //Check if player or computer has 21 or over
+
+            while (playercount <21 && dealercount < 21)
+            {
+                if (playersturn == true) //If playersturn = true
                 {
-                    Console.WriteLine("Dine kort er: " + deck[count].ToString());
-                    playercount += deck[count].Value;
-                    count++;
-                }
+                    Console.ForegroundColor = ConsoleColor.Cyan;
 
-                Console.WriteLine(playercount);
+                    Console.WriteLine("Ønsker du at trække et kort mere? 1 = YES, 2 = STAND/NO");
+                    choise = Convert.ToByte(Console.ReadLine()); //Convert ReadLine to byte and set as choise
 
-                Console.WriteLine(" -----");
-
-                for (int i = 0; i < 2; i++)
-                {
-                    Console.WriteLine("Computerens kort er: " + deck[count].ToString());
-                    computercount += deck[count].Value;
-                    count++;
-                }
-
-                Console.WriteLine(computercount);
-
-                if (playercount <= 21 || computercount <= 21)
-                {
-
-                    Console.WriteLine("Ønsker du at trække et kort mere? 1 = YES - 2 = STAND");
-                    choise = Convert.ToByte(Console.ReadLine());
-
-                    if (choise == 1)
+                    if (choise == 1) //If the player wants to get 1 more card
                     {
-                        Console.WriteLine("Dit kort er: " + deck[count].ToString());
-                        playercount += deck[count].Value;
+                        Console.WriteLine("\nDit nye kort er: " + deck[count].ToString());
+                        playercount += deck[count].Value; //Adds card value to playercount
                         count++;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Computerens kort er: " + deck[count].ToString());
-                        computercount += deck[count].Value;
-                        count++;
-                    }
+                        Console.WriteLine(playercount);
 
-                }
-                else if (playercount >= 21)
-                {
-                    Console.WriteLine("Du har tabt");
-                    Console.WriteLine("Din count: " + playercount);
-                    Console.WriteLine("Computer count: " + computercount);
+                        Checker(playercount, dealercount); //Check if player or computer has 21 or over
+                    }
+                    else //Else set playersturn to false
+                    {
+                        playersturn = false;
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("Du har vunder over computeren");
-                    Console.WriteLine("Din count: " + playercount);
-                    Console.WriteLine("Computer count: " + computercount);
+                    Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine("\nDealers kort er: " + deck[count].ToString());
+                    dealercount += deck[count].Value; //Adds card value to dealercount
+                    count++;
+                    Console.WriteLine(dealercount);
+
+                    Checker(playercount, dealercount); //Check if player or computer has 21 or over
+                    playersturn = true; //Set playersturn to true
                 }
             }
         }
 
-        //Shuffle cards
+        //Check if player or computer has 21 or over\\
+        static void Checker(byte playercount, byte dealercount)
+        {
+            if (playercount >= 21)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("\nDu har tabt");
+            }
+            else if (dealercount >= 21)
+            {
+                Console.ForegroundColor= ConsoleColor.Green;
+                Console.WriteLine("\nDu har vundet!");
+            }
+        }
+
+        //Shuffle cards\\
         public static Card[] Shuffle(Card[] sorted)
         {
             Random rand = new Random();
