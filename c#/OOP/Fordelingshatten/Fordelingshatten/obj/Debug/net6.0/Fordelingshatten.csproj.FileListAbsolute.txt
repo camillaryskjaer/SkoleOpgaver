@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\ref\Fordelingshatten.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\bin\Debug\net6.0\Fordelingshatten.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\ref\Fordelingshatten.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Fordelingshatten\Fordelingshatten\obj\Debug\net6.0\Fordelingshatten.genruntimeconfig.cache

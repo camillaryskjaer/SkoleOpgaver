@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
-      "projectName": "Black Jack",
-      "projectPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\Black Jack.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Fordelingshatten\\Fordelingshatten\\Fordelingshatten.csproj",
+      "projectName": "Fordelingshatten",
+      "projectPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Fordelingshatten\\Fordelingshatten\\Fordelingshatten.csproj",
       "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Black Jack\\Black Jack\\obj\\",
+      "outputPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Fordelingshatten\\Fordelingshatten\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
