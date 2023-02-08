@@ -13,15 +13,19 @@
         {
 
             //Random MicroShip between "RX54667" and "QT8339"
+            
+            //Et spørgsmål : Skal robotten virkelig selv bestemme, hvilken chip den skal have inde i sig? Det tror jeg ikke. Det bør sendes med som parameter
             string[] chip = { "RX54667", "QT8339" };
             Random random = new Random();
             int index = random.Next(chip.Length);
 
+            //Hvorfor initialisere du to randoms?
             Random rnd = new Random();
 
             Colour = "white";
             Chip = chip[index];
             WIFI = false;
+            //Ikke alle robotter kan have batterier
             Battery = (byte)rnd.Next(0, 255); //Random battery size, between 0 and 255
             Sope = 0;
             Wheels = 0;
